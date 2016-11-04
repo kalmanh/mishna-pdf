@@ -13,7 +13,7 @@ $ npm install
 
 ## Usage
 
-Modify `schedule.json` with appropriate key/values (see below)
+Modify `data/schedule.json` with appropriate key/values (see below)
 omitting the defaults if you wish.
 
 Then,
@@ -22,7 +22,7 @@ Then,
 $ node index.js
 ```
 
-## schedule.json
+## data/schedule.json
 
 ```
   {
