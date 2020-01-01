@@ -7,9 +7,9 @@
   "license": "MIT",
   "dependencies": {
     "mishnah": "https://github.com/mishnah/mishnah",
-    "moment": "^2.15.2",
-    "open": "0.0.5",
-    "pdfmake": "^0.1.18"
+    "moment": "^2.24.0",
+    "open": ">=6.0.0",
+    "pdfmake": "^0.1.63"
   },
   "repository": {
     "type": "git",
